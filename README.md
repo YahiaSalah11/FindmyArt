@@ -3,7 +3,7 @@ Absolutely! Here's a **smaller, cleaner version** of the `README.md` — concise
 ---
 
 ```markdown
-# 🖼️ Art Gallery Search App
+# 🖼️ FindmyArt App
 
 A full-stack web app to search for paintings or artists and view detailed artwork info.  
 Built with **React** (frontend) and **Node.js/Express** (backend).
@@ -13,12 +13,11 @@ Built with **React** (frontend) and **Node.js/Express** (backend).
 ## 📁 Structure
 
 ```
+![image](https://github.com/user-attachments/assets/13485e9a-cac2-4893-a662-cf4165ea6609)
 
-.
-├── backend/         # Express server
-├── frontend/        # React app
-├── CleandDatabase/  # Optional cleaned dataset
-└── README.md
+
+
+
 
 ````
 
